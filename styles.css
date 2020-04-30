@@ -12,10 +12,6 @@ img {
     padding: 20px;
 }
 
-label {
-    color: white;
-}
-
 .nav-link {
     margin-right: auto !important;
 }
@@ -23,8 +19,6 @@ label {
 .container {
     margin-top: 50px;
     padding-bottom: 100px;
-    position: relative;
-    overflow: hidden;
 }
 
 footer {
@@ -36,3 +30,8 @@ footer {
     line-height: 60px;
     background-color: white;
 }
+
+  .card-img-top {
+      padding: 0;
+      clear: both;
+  }
